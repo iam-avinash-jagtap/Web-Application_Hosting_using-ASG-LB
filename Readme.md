@@ -287,10 +287,10 @@ _After the creation of Auto Scaling groups you create load balancer but before t
     - Health check path - /ktm
 5. In register targets - Do not select instances because target is auto-scaling groups.
 6. Click on - Create target group
-### Target groups are successfully created
 
 ![Target-Groups](https://github.com/iam-avinash-jagtap/Web-Application_Hosting_using-ASG-LB/blob/master/Images/Target%20Groups.png)
 
+### Target groups are successfully created
 # Step 6:- Assign Target Groups With Auto Scaling Groups
 ### Bikewale-ASG
 1. Go to the auto-scaling groups 
