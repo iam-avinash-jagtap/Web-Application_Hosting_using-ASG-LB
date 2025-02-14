@@ -141,10 +141,10 @@ _In your web application there are three pages which are deploy into 3 different
     </body>
     </html>
     EOL
-#### All 3 Launch templates are created
 
 ![Launch-Templates](https://github.com/iam-avinash-jagtap/Web-Application_Hosting_using-ASG-LB/blob/master/Images/Launch%20Templates.png)
 
+#### All 3 Launch templates are created
 # Step 4:- Create Auto Scaling Groups
 _After the creation of launch templates you are ready to configure auto scaling groups using launch templates_
 _you are going to create 3 different types of the auto scaling groups Static-Bikewale, Dynamic-BMW, Scheduled-KTM_
@@ -228,7 +228,7 @@ _you are going to create 3 different types of the auto scaling groups Static-Bik
 
 ![Instances](https://github.com/iam-avinash-jagtap/Web-Application_Hosting_using-ASG-LB/blob/master/Images/All%20Instances.png)
 
-    _//This ASG is Scheduled so you need to make Scheduled it_
+_//This ASG is Scheduled so you need to make Scheduled it_
     - Refresh Auto Scaling Groups
     - Open KTM-ASG 
     - Open section - Automatic Scaling
